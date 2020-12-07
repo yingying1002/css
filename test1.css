@@ -1,0 +1,22 @@
+
+		h1{
+			font-family: "Times the Romes",sans-serif
+		}
+		h3{
+			font-family: "Times the Romes",sans-serif
+		}
+		em {
+			background-color: pink;
+			margin-top: 20%; 
+			margin-right: auto;
+			margin-bottom: 20%;
+			margin-left: auto;
+		}
+		p {
+			background-color: lightblue;}
+			@media screen and (min-width: 50px){
+			p{
+				background-color: pink;
+				margin-right: 300px;
+			}
+		}
